@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransSrt": {
+      "commandName": "Project",
+      "commandLineArgs": "testEng.srt"
+    }
+  }
+}
